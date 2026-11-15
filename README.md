@@ -1,2 +1,0 @@
-# craftoria-serveur
-craftoria-serveur
